@@ -1,0 +1,16 @@
+:root {
+  --color-cream: #f7f6f2;
+  --color-ink: #4b2e1f;
+  --color-ink-soft: #6b4a34;
+  --color-border: #ded6cb;
+  --color-shadow: rgba(31, 25, 18, 0.1);
+  --color-gold: #c7a55b;
+  --color-gold-soft: #d7be82;
+  --color-white: #ffffff;
+  --container-width: 1200px;
+  --radius-lg: 20px;
+  --radius-md: 14px;
+  --radius-sm: 8px;
+  --shadow-soft: 0 20px 40px rgba(31, 25, 18, 0.12);
+  --shadow-card: 0 12px 30px rgba(31, 25, 18, 0.08);
+}
